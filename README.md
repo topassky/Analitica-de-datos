@@ -87,21 +87,19 @@ Además
 ### Prerequisitos
 
 Para ejecutar el proyecto debes instalar las siguientes librerias:
-* opencv
+* numpy
   ```sh
-  pip install opencv-python
+  pip install numpy
   ```
 * opencv-contrib-python
   ```sh
-  pip install opencv-contrib-python
+  pip install pandas
   ```
-* imutils
+* matplotlib
   ```sh
-  pip install imutils
+  pip install matplotlib
   ```
-* pyzbar
-  
-  Se recomienda ver la socumentación oficial de la libreria.
+
 
 
 
