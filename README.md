@@ -77,7 +77,12 @@ Además
 \beta_{1} = \frac{\sum_{t=1}^{T}(z_{t}-\beta_{0})t}{\sum_{t=1}^{T}t^{2}}
 ```
 
-
+<p align="center">
+   <a href="https://github.com/topassky/M-todo-de-descomposici-n-para-series-estacionales.git">
+    <img src="https://comcop.co/Arg/img/serie_sin_tendencia.png" alt="Logo" width="640" height="420">
+  </a>
+  <h3 align="center">Figura 1: Serie sin tendencia, ejemplo de base de datos parados.dat</h3>
+</p>
 
 ### Prerequisitos
 
