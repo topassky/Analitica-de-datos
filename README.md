@@ -21,16 +21,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/topassky/qrStream.git">
-    <img src="ejemplo_codigo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Leyendo codigo QR por medio de visión por computadora</h3>
-
-  <p align="center">
-    El uso inteligente de cortonos puede evitar complejos algoritmos inteligencia artificial
-  <p>
-
+  <h3 align="center">Métodos para descomposición para series temporales</h3>
 </p>
 
 
@@ -40,24 +31,52 @@
   <summary>Tabla de contenidos</summary>
   <ol>
     <li>
-      <a>Crear codigo QR</a>
+      <a>Descomposición para series estacionales</a>
     </li>
     <li>
-      <a>Clase para detertar la forma cuadrada de un contorno</a>
+      <a>Series sin tendencia</a>
     </li>
-    <li>
-      <a>Detectar cotorno y leer codigo QR por medio de una camara y algotirmos de procesamiento de imagenes</a>
-    </li>
-
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## Sobre el proyecto.
+## 1. Descomposición para series estacionales
 
-El proyecto consiste en leer un codigo QR utilizando algoritmos de visión por computadora, evitando el uso inecesario de inteligencia artificial para la detección de la señal.
+Cuando la serie además de tendencia y componente aleatorio tiene estacionalidad, los métodos de descomposición suponenen que los datos se generan como suma de esos tres efectos:
+
+```math
+z_{t}=\mu_{t}+S_{t}+a_{t}
+```
+
+donde ![equation](https://latex.codecogs.com/svg.image?\mu_{t}) es el nivel de la serie, ![equation](https://latex.codecogs.com/svg.image?S_{t}) es el componente estacional y ![equation](https://latex.codecogs.com/svg.image?a_{t}) es el componente puramente aleatorio o innovación que, como modelos anteriores, es una secuencia de variables incorreladas de media cero y varianza constante. Los métodos clásicos de descomposición suponen que tanto el nivel como la estacionalidad son deterministas. El nivel ![equation](https://latex.codecogs.com/svg.image?\mu_{t}) se modela mediante un polinomio del tiempo de orden menor o iguual a dos, y la estacionalidad como una función periódica, que verifica la condición:
+
+```math
+S_{t} = S_{t-s}
+```
+## 2. Series sin tendencia.
+Se estima el nivel de la serie observada como un modelo de tendencias deterministas. La forma de la tendencia se elige con el gráfico de la serie  y se estima como una función conocida determinista del tiempo que depende del instante conocido y de un vector de parámetros, ![equation](https://latex.codecogs.com/svg.image?\beta%20=%20%3C\beta_{0},%20\beta_{1},%20\beta_{2}%3E)
+
+```math
+\mu_{t} = f(t,\beta)
+```
+
+Un modelos más general, que se aplica a series que tienen tendencia, creciente o decreciente, es el modelo de tendencia lineal.
+
+```math
+\mu_{t} = \beta_{0} + \beta_{1}t 
+```
+
+donde,
+```math
+\beta_{0} = \bar{z_{t}}
+```
+Además
+```math
+\beta_{1} = \frac{\sum_{t=1}^{T}(z_{t}-\beta_{0})t}{\sum_{t=1}^{T}t^{2}}
+```
+
 
 
 ### Prerequisitos
