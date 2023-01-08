@@ -65,7 +65,7 @@ Se estima el nivel de la serie observada como un modelo de tendencias determinis
 \mu_{t} = f(t,\beta)
 ```
 
-Un modelos más general, que se aplica a series que tienen tendencia, creciente o decreciente, es el modelo de tendencia lineal.
+Un modelos más general, que se aplica a series que tienen tendencia, creciente o decreciente, es el modelo de tendencia lineal, que estima cuando la media del tiempo es cero.
 
 ```math
 \mu_{t} = \beta_{0} + \beta_{1}t 
