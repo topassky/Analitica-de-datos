@@ -24,10 +24,11 @@ tendencia_Et = nivel_serie_Et.calculo()
 
 
 # Grafica de la series original.
-fig, ax = plt.subplots()
-ax.plot(tiempo, parados, linewidth=2.0)
-ax.plot(tiempo, tendencia, linewidth=2.0)
-ax.plot(tiempo, E_t, linewidth=2.0)
-ax.plot(tiempo, tendencia_Et, linewidth=2.0)
+fig, (ax1, ax2) = plt.subplots(2, sharex=True)
+fig.suptitle('Serie sin tendencia')
+ax1.plot(tiempo, parados, linewidth=2.0)
+ax1.plot(tiempo, tendencia, linewidth=2.0)
+ax2.plot(tiempo, E_t, linewidth=2.0)
+ax2.plot(tiempo, tendencia_Et, linewidth=2.0)
 plt.show()
 
