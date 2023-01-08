@@ -31,10 +31,13 @@
   <summary>Tabla de contenidos</summary>
   <ol>
     <li>
-      <a>Descomposición para series estacionales</a>
+      <a>1. Descomposición para series estacionales</a>
     </li>
     <li>
-      <a>Series sin tendencia</a>
+      <a>2. Series sin tendencia</a>
+    </li>
+    <li>
+      <a>3. Referencias</a>
     </li>
   </ol>
 </details>
@@ -99,7 +102,8 @@ Para ejecutar el proyecto debes instalar las siguientes librerias:
   ```sh
   pip install matplotlib
   ```
-
+## 3. Referencias.
+Peña Daniel. (2018). Análisis de series temporales. Alianza Editorial. 
 
 
 
