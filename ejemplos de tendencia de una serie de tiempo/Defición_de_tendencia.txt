@@ -1,0 +1,3 @@
+La tendencia en una serie de tiempo se refiere a la dirección general o patrón de cambio en los datos a lo largo del tiempo. Puede ser una tendencia al alza, una tendencia a la baja o una tendencia estable.
+
+Un ejemplo de tendencia al alza sería el aumento en las ventas de un producto a lo largo del tiempo. Un ejemplo de tendencia a la baja sería el declive en la población de una especie en particular. Un ejemplo de tendencia estable podría ser el nivel de empleo en un país en un período de tiempo determinado.
