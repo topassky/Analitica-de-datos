@@ -1,4 +1,4 @@
-from coeficientes_estacionales import Coeficientes_Estacionales
+from calculo_estacionalidad.estacionalidad import Estacionalidad
 from nivel_serie import Nivel_serie
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -25,10 +25,10 @@ tendencia = nivel_serie.caculco_media_movil()
 #la misma.
 E_t = parados - tendencia 
 nivel_serie_Et = Nivel_serie(tiempo, E_t)
-tendencia_Et = nivel_serie_Et.calculo()
+tendencia_Et = nivel_serie_Et.caculco_media_movil()
 
-Coeficientes_Estacionales = Coeficientes_Estacionales(parados, tiempo)
-#S_t = Coeficientes_Estacionales.calculo()
+Estacionalidad = Estacionalidad(E_t, tiempo)
+S_t = Estacionalidad.calculo(periodo=4)
 
 
 # Grafica de series
@@ -39,6 +39,6 @@ ax1.plot(tiempo, tendencia, linewidth=2.0)
 ax2.plot(tiempo, E_t, linewidth=2.0)
 ax2.plot(tiempo, tendencia_Et, linewidth=2.0)
 #ax3.plot(tiempo, parados, linewidth=2.0)
-ax3.plot(tiempo, S_t, linewidth=2.0)
-plt.show()
+#ax3.plot(tiempo, S_t, linewidth=2.0)
+#plt.show()
 

@@ -26,9 +26,10 @@ class Nivel_serie():
         
         return tendencia
     
-    def caculco_media_movil(self):
+    
+    def caculco_media_movil(self, ventana = 2):
         # Encontrar la tendencia de una serie por medio de método de la media móvil
-        tendencia = self.serie.rolling(window=2).mean()
+        tendencia = self.serie.rolling(window = ventana).mean()
         tendencia = tendencia.fillna(method = 'bfill')
 
         return tendencia
