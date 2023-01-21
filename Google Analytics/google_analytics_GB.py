@@ -13,7 +13,7 @@ credentials = ServiceAccountCredentials.from_json_keyfile_name(
 service = build('analytics', 'v3', credentials=credentials)
 
 # Establecer el ID de la vista de Google Analytics
-view_id = '195738696'
+view_id = 'xxxxxxxx'
 
 # Establecer el período de tiempo para recuperar los datos
 start_date = '30daysAgo'
