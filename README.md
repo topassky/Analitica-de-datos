@@ -1,33 +1,13 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <h3 align="center">Métodos para descomposición para series temporales</h3>
+  <h3 align="center">Analitica de datos</h3>
 </p>
 
 
 <ol>
-  <li><a href="https://www.google.com">Google</a></li>
-  <li><a href="https://www.github.com">GitHub</a></li>
-  <li><a href="https://www.stackoverflow.com">Stack Overflow</a></li>
+  <li><a href="https://github.com/topassky/Analitica-de-datos/tree/master/Analisis%20de%20series%20temporales">Analisis de series temporales</a></li>
+  <li><a href="https://github.com/topassky/Analitica-de-datos/tree/master/Google%20Analytics">Google Analytics</a></li>
 </ol>
 
