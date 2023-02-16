@@ -20,7 +20,7 @@
 
 <!-- PROJECT LOGO -->
 <center>
-<h1 style="text-align: center;">Métodos para descomposición para series temporales</h1>
+<h1>Métodos para descomposición para series temporales</h1>
 </center>
 
 
