@@ -1,9 +1,7 @@
 
 <!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <h3 align="center">Analitica de datos</h3>
-</p>
+<h1 align="center">Analitica de datos</h1>
+
 
 
 <ol>
