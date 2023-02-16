@@ -8,11 +8,11 @@ import numpy as np
 #plt.style.use('_mpl-gallery')
 
 # make data
-df = pd.read_table("parados.dat", header=None, sep='\s+')
+df = pd.read_table("tempsantiago.dat", header=None, sep='\s+')
 
 # Se segmenta el numero de la variable parados.
-tiempo = np.linspace(1, len(df[2]), len(df[2]))
-parados = df[2]
+tiempo = np.linspace(1, len(df[0]), len(df[0]))
+parados = df[0]
 
 
 nivel_serie = Nivel_serie(tiempo, parados)
