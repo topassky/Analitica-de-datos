@@ -7,6 +7,10 @@ class Nivel_serie():
         self.serie = serie
     
     def calculo(self):
+        """
+        Función para calcular la tendencia por el método de regresión lineal
+        :return: array con la tendencia de la serie temporal
+        """
         valor_tiempo_media = self.tiempo.mean()
         tiempo_media_0 = self.tiempo - valor_tiempo_media
 
@@ -23,15 +27,17 @@ class Nivel_serie():
         beta_1 = beta_1_num / beta_1_dem
 
         tendencia = beta_0 + beta_1*tiempo_media_0
-        
+    
         return tendencia
-    
-    
+
+
     def caculco_media_movil(self, ventana = 2):
-        # Encontrar la tendencia de una serie por medio de método de la media móvil
+        """
+        Función para calcular la tendencia por el método de la media móvil
+        :param ventana: tamaño de la ventana para calcular la media móvil
+        :return: array con la tendencia de la serie temporal
+        """
         tendencia = self.serie.rolling(window = ventana).mean()
         tendencia = tendencia.fillna(method = 'bfill')
 
         return tendencia
-    
-
