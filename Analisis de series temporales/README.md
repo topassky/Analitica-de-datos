@@ -22,6 +22,8 @@
 
 <h2>3. Cálculo de del nivel de la serie por el método de análisis de tendencia por diferenciación.</h2>
 
+<p align="justify">Este método se basa en la diferenciación de la serie temporal para obtener una nueva serie sin la componente de tendencia. Se calcula la primera o segunda diferencia de la serie original y se ajusta un modelo de regresión lineal simple a la serie diferenciada. El coeficiente de la variable temporal en el modelo ajustado se interpreta como la tasa de cambio de la serie en el tiempo y representa la estimación del nivel de la serie. Este método es útil cuando la serie temporal no presenta una tendencia clara y se busca estimar el nivel de la serie a partir de la tasa de cambio de la misma.</p>
+
 
 
 
