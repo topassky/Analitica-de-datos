@@ -5,7 +5,7 @@ import pandas as pd
 import numpy as np
 
 # Lectura del archivo de datos en formato tabla
-df = pd.read_table("tempsantiago.dat", header=None, sep='\s+')
+df = pd.read_table("base_datos/tempsantiago.dat", header=None, sep='\s+')
 
 # Se segmenta el número de la variable 'serie_original'.
 tiempo = np.linspace(1, len(df[0]), len(df[0]))
@@ -31,8 +31,6 @@ Estacionalidad = Estacionalidad(E_t, tiempo)
 
 # Se calcula la estacionalidad con periodo 12
 S_t = Estacionalidad.calculo(periodo=12)
-
-at = 
 
 # Se crean las cuatro subgráficas para visualizar las series temporales
 fig, ((ax1, ax2), (ax3, ax4)) = plt.subplots(2,2, sharex=True)
