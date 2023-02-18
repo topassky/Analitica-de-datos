@@ -21,7 +21,8 @@
 <p align="justify">El cálculo del nivel de la serie por el método de regresión lineal es una técnica utilizada en el análisis de series temporales para estimar la tendencia en una serie de datos a lo largo del tiempo. Este método consiste en ajustar una línea recta a los datos y utilizar la pendiente de la línea como una medida de la tasa de cambio a lo largo del tiempo. El valor de la intersección de la línea con el eje vertical se interpreta como el nivel de la serie en el momento inicial. Al igual que otros métodos de análisis de series temporales, este método asume que los datos están libres de patrones estacionales o cíclicos, y que la relación entre la variable dependiente y el tiempo es lineal. </p>
 
 
+<h2>3. Estacionalidad</h2>
 
-
+<p>La estacionalidad en una serie de datos se refiere a la variación periódica y repetitiva que se observa en los valores de la serie en intervalos regulares de tiempo, como días, semanas, meses o años. Esta variación se debe a factores estacionales, como las estaciones del año, días festivos, eventos culturales o patrones de comportamiento de los consumidores, que afectan los valores de la serie. La identificación de la estacionalidad en una serie de datos es importante para entender las fluctuaciones en los valores y para predecir posibles patrones futuros.</p>
 
 
