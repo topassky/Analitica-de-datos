@@ -20,6 +20,7 @@
 
 <p align="justify">El cálculo del nivel de la serie por el método de regresión lineal es una técnica utilizada en el análisis de series temporales para estimar la tendencia en una serie de datos a lo largo del tiempo. Este método consiste en ajustar una línea recta a los datos y utilizar la pendiente de la línea como una medida de la tasa de cambio a lo largo del tiempo. El valor de la intersección de la línea con el eje vertical se interpreta como el nivel de la serie en el momento inicial. Al igual que otros métodos de análisis de series temporales, este método asume que los datos están libres de patrones estacionales o cíclicos, y que la relación entre la variable dependiente y el tiempo es lineal. </p>
 
+<h2>3. Cálculo de del nivel de la serie por el método de análisis de tendencia por diferenciación.</h2>
 
 
 
