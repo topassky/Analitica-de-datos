@@ -26,4 +26,4 @@
 <p>La estacionalidad en una serie de datos se refiere a la variación periódica y repetitiva que se observa en los valores de la serie en intervalos regulares de tiempo, como días, semanas, meses o años. Esta variación se debe a factores estacionales, como las estaciones del año, días festivos, eventos culturales o patrones de comportamiento de los consumidores, que afectan los valores de la serie. La identificación de la estacionalidad en una serie de datos es importante para entender las fluctuaciones en los valores y para predecir posibles patrones futuros.</p>
 
 
-<p align="center"><img src="https://github.com/topassky/Analitica-de-datos/blob/master/Analisis%20de%20series%20temporales/Figure_1.png"></p>
+
