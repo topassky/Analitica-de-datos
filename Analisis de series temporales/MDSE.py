@@ -43,7 +43,7 @@ ax3.plot(tiempo, S_t, linewidth=2.0)
 ax3.set_title('Estacionalidad')
 ax4.plot(tiempo, parados, linewidth=2.0)
 ax4.plot(tiempo, S_t+tendencia, linewidth=2.0)
-ax4.set_title('Serie y predicción de la serie')
+ax4.set_title('Serie y descompisción de la serie')
 
 # Se muestra la gráfica
 plt.show()
