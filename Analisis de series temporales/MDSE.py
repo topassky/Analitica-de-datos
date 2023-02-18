@@ -1,5 +1,5 @@
 from calculo_estacionalidad.estacionalidad import Estacionalidad
-from nivel_serie import Nivel_serie
+from calculo_nivel_serie.nivel_serie import Nivel_serie
 import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
