@@ -18,6 +18,6 @@
 <p>Siendo: </p>
 
 <p align="center"><img src = "https://quicklatex.com/cache3/fa/ql_b640973a4ff75f87c65566c8dbaf3bfa_l3.png"></p>
-
+<p align="center"><img src = "https://quicklatex.com/cache3/3c/ql_a4a0cc93124b10888e6ad501f522e63c_l3.png"></p>
 
 
