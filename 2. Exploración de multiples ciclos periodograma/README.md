@@ -17,3 +17,7 @@
 
 <p>Siendo: </p>
 
+<p align="center"><img src = "https://quicklatex.com/cache3/c7/ql_c34eccb4daf0691083bd0963332620c7_l3.png"></p>
+
+
+
