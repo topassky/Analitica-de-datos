@@ -15,3 +15,5 @@
 
 <p align="center"><img src = "https://quicklatex.com/cache3/11/ql_13ce666f154827a2e8bf7816639f7011_l3.png"></p>
 
+<p>Siendo: </p>
+
