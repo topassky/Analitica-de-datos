@@ -22,5 +22,7 @@
 <p align="center"><img src = "https://quicklatex.com/cache3/a3/ql_6c5cbd8ce44f2927f89e71b682cef7a3_l3.png"></p>
 <p align="center"><img src = "https://quicklatex.com/cache3/1a/ql_fc49db5eb0a929dd4b2d377c476d1a1a_l3.png"></p>
 
+<p align="center">El periodograma es una herramienta utilizada para analizar señales periódicas y determinar su distribución de energía en el dominio de la frecuencia. Se conoce como periodograma a la representación gráfica de la contribución de cada frecuencia de la señal, en función de la frecuencia angular w o la frecuencia f. En este segundo caso, se define como la densidad espectral de potencia, que indica la cantidad de energía que se encuentra en diferentes frecuencias de la señal. </p>
+
 
 
