@@ -5,4 +5,8 @@
 <p align="justify">Los periodos básicos o de Fourier son una concepto clave en la teoría matemática de la transformada de Fourier. Estos se refieren a las frecuencias que son fracciones exactas completas del tamaño muestral de una serie de datos de longitud T. En otras palabras, los periodos básicos se definen como las frecuencias que cumplen con una relación precisa con el tamaño de la muestra. Es decir los periodos básicos estan definidos por:
 </p>
 
-<p align="center"><img src = "https://quicklatex.com/cache3/79/ql_dd1212ad9d3a46c62423b9584a465679_l3.png"></p> 
+<p align="center"><img src = "https://quicklatex.com/cache3/79/ql_dd1212ad9d3a46c62423b9584a465679_l3.png"></p>
+
+<p align="justify">En el ajuste de ciclos, se trabaja con frecuencias en lugar de con periodos, y las frecuencias básicas o de Fourier se definen como las inversas de los periodos.</p>
+
+<p align="center"><img src = "https://quicklatex.com/cache3/85/ql_4624409161cbb0182200a6fe61914a85_l3.png"></p>
