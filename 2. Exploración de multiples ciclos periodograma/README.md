@@ -11,4 +11,4 @@
 
 <p align="center"><img src = "https://quicklatex.com/cache3/85/ql_4624409161cbb0182200a6fe61914a85_l3.png"></p>
 
-<p align="center">Es posible obtener una representación general de una función periódica como una suma de frecuencias básicas a través del siguiente método: </p>
+<p align="justify">Es posible obtener una representación general de una función periódica como una suma de frecuencias básicas a través del siguiente método: </p>
