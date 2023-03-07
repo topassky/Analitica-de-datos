@@ -13,7 +13,7 @@
 
 <p align="justify">Es posible obtener una representación general de una función periódica como una suma de frecuencias básicas a través del siguiente método: </p>
 
-<p align="center"><img src = "https://quicklatex.com/cache3/11/ql_13ce666f154827a2e8bf7816639f7011_l3.png"></p>
+<p align="center"><img src = "https://quicklatex.com/cache3/1b/ql_a822640b376eca7ce4a8792d43f0191b_l3.png"></p>
 
 <p>Siendo: </p>
 
