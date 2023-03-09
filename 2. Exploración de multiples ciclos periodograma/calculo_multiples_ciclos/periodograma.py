@@ -1,5 +1,7 @@
 from calculo_estacionalidad.parametros_estacionalidad import Parametros_Estacionalidad
+from scipy.signal import periodogram
 import numpy as np
+import pandas as pd
 
 class Periodograma():
     def __init__(self, new_df, fs_data, t):
@@ -42,3 +44,5 @@ class Periodograma():
             fs_data_new.append(self.fs_data[i])
         
         return fs_data_new
+    
+

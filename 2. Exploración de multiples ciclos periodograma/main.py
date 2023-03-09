@@ -26,6 +26,7 @@ t = np.linspace(1, len(new_df.index)+1, num=len(new_df.index)+1)
 frec_basicas = FrecuenciasYPeriodosBasicos(len(new_df))
 fs_data = frec_basicas.calcular_frecuencias()
 
+
 p = Periodograma(new_df, fs_data, t)
 original_list = p.peridograma_calculo()
 
