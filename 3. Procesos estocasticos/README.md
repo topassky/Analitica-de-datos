@@ -12,6 +12,6 @@
 
 <p align="justify">Como segundo ejemplo, se considera un proceso estocástico definido por:</p>
 
-<p align="center">Hola</p>
+<p align="center"><img src="https://latex.codecogs.com/svg.image?z_{t}=z_{t-1}&plus;a_{t}">/p>
 
 <p align="justify">Se supone que este proceso estocástico comienza en un instante <img src="https://latex.codecogs.com/svg.image?t=0"> con < img src="https://latex.codecogs.com/svg.image?z_{0}=0">, y que las variables at son normales con media cero y varianza constante <img src="https://latex.codecogs.com/svg.image?\sigma&space;^{2}"> a lo largo del tiempo, e independientes entre sí. Este proceso es conocido como "paseo aleatorio" y la figura 2 presenta 200 realizaciones de este proceso generadas por un ordenador. El proceso siempre comienza con el valor 0, pero se aleja de él a medida que avanza el tiempo.</p> 
