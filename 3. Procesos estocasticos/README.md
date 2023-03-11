@@ -9,3 +9,5 @@
 <p align="justify">La figura 1 presenta 12 realizaciones (años) de la serie de lluvia en Madrid en los 12 meses del año. Hay 12 valores de 12 variables aleatorias, una para cada mes, y la trayectoria de los 12 valores en un año determinado representa una realización del proceso estocástico. Si se considera un mes cualquiera, los 12 valores disponibles forman una muestra de tamaño 12 de una variable aleatoria.</p>
 
 <p align="center"><img src="https://github.com/topassky/Analitica-de-datos/blob/master/3.%20Procesos%20estocasticos/Figure_1.png"> </p>
+
+<p align="justify">Como segundo ejemplo, se considera un proceso estocástico definido por:</p>
