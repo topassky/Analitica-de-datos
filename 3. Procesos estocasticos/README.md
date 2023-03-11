@@ -7,3 +7,5 @@
 <p align="justify">Por ejemplo, si consideramos una variable climática, como la cantidad de lluvia, la humedad o la contaminación, en una ciudad específica, registrada a las 12 horas de cada día durante un año, las 365 observaciones recogidas para esa variable representan una realización del proceso estocástico. Al comenzar un nuevo año, se obtiene una nueva realización del proceso estocástico y así sucesivamente. Si examinamos el valor de la variable en el día 9 de junio de diferentes años, tendremos la distribución de probabilidad de una variable aleatoria. </p> 
 
 <p align="justify">La figura 1 presenta 12 realizaciones (años) de la serie de lluvia en Madrid en los 12 meses del año. Hay 12 valores de 12 variables aleatorias, una para cada mes, y la trayectoria de los 12 valores en un año determinado representa una realización del proceso estocástico. Si se considera un mes cualquiera, los 12 valores disponibles forman una muestra de tamaño 12 de una variable aleatoria.</p>
+
+<p align="center"><img src="https://github.com/topassky/Analitica-de-datos/blob/master/3.%20Procesos%20estocasticos/Figure_1.png"> </p>
