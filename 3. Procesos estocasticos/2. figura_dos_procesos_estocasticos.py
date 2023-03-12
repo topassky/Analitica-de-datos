@@ -56,8 +56,44 @@ ax.set_ylabel('Variable')
 # Mostrar la malla en el gráfico
 ax.grid(True)
 
+# Crear una lista de listas vacías para almacenar los valores de la variable en los instantes temporales t = 25,50,75 y 100
+instantes = [[],[],[],[]]
+
+# Recorrer la lista de muestras generadas
+for i in conjunto_muestras:
+    # Almacenar el valor de la variable en el instante temporal t = 25
+    instantes[0].append(i[24])
+    # Almacenar el valor de la variable en el instante temporal t = 50
+    instantes[1].append(i[49])
+    # Almacenar el valor de la variable en el instante temporal t = 75
+    instantes[2].append(i[74])
+    # Almacenar el valor de la variable en el instante temporal t = 100
+    instantes[3].append(i[99])
+
+# Crear una figura con varios subplots
+fig, axs = plt.subplots(2, 2, figsize=(5, 5))
+
+# Crear una lista de colores
+colors = ['blue', 'red', 'green', 'purple']
+
+# Crear un ciclo para crear el histograma de distribución para cada arreglo
+for i, array in enumerate(instantes):
+    axs[i//2, i%2].hist(array, bins=10, density=True, color=colors[i], alpha=0.7, edgecolor='black', linewidth=1.5)
+    axs[i//2, i%2].set_xlabel("Valor")
+    axs[i//2, i%2].set_ylabel("Frecuencia")
+    axs[i//2, i%2].set_title(f"Histograma de distribución {i+1}")
+
 # Mostrar la figura con los subplots
 plt.show()
+
+
+
+
+
+
+
+
+
 
 
 
