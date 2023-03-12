@@ -23,5 +23,7 @@
 
 <p align="center"><img src="https://github.com/topassky/Analitica-de-datos/blob/master/3.%20Procesos%20estocasticos/Figure_3.png"> </p>
 
+<p align="justify">Se puede observar que existen varias realizaciones de un proceso estocástico en fenómenos estables y repetitivos a lo largo del tiempo. Por ejemplo, en variables climáticas, astronómicas o ambientales que siguen cada año un patrón similar debido a la rotación de la tierra alrededor del sol. Además, en variables que se repiten en las mismas condiciones, como el ritmo cardiovascular de una persona a lo largo del día (en días similares) o el rendimiento obtenido por una acción en diferentes días, entre otros. Si se define la ecuación de generalización de las observaciones de un proceso, se pueden generar todas las realizaciones deseadas en un ordenado.</p>
+
 
 
