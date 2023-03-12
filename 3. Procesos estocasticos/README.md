@@ -17,3 +17,7 @@
 <p align="justify">Se supone que este proceso estocástico comienza en un instante <img src="https://latex.codecogs.com/svg.image?t=0"> con <img src="https://latex.codecogs.com/svg.image?z_{0}=0">, y que las variables <img src="https://latex.codecogs.com/svg.image?a_{t}"> son normales con media cero y varianza constante <img src="https://latex.codecogs.com/svg.image?\sigma&space;^{2}"> a lo largo del tiempo, e independientes entre sí. Este proceso es conocido como "paseo aleatorio" y la figura 2 presenta 200 realizaciones de este proceso generadas por un ordenador. El proceso siempre comienza con el valor 0, pero se aleja de él a medida que avanza el tiempo.</p> 
 
 <p align="center"><img src="https://github.com/topassky/Analitica-de-datos/blob/master/3.%20Procesos%20estocasticos/Figure_2.png"> </p>
+
+
+<p align="center">La figura 3 presenta histogramas de distribución de los 220 valores de la variable del proceso a los instantes temporales t = 25, 50, 75 y 100. Se puede observar que la media de estas distribuciones es aproximadamente 0 en todos los casos, pero la varianza de la distribución aumenta a medida que avanza el tiempo considerado. Este resultado concuerda con lo que se puede apreciar en la figura 2, donde se ve que las realizaciones del proceso tienden a alejarse del valor inicial con el paso del tiempo.</p>
+
