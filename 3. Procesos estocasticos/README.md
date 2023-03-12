@@ -25,5 +25,7 @@
 
 <p align="justify">Se puede observar que existen varias realizaciones de un proceso estocástico en fenómenos estables y repetitivos a lo largo del tiempo. Por ejemplo, en variables climáticas, astronómicas o ambientales que siguen cada año un patrón similar debido a la rotación de la tierra alrededor del sol. Además, en variables que se repiten en las mismas condiciones, como el ritmo cardiovascular de una persona a lo largo del día (en días similares) o el rendimiento obtenido por una acción en diferentes días, entre otros. Si se define la ecuación de generalización de las observaciones de un proceso, se pueden generar todas las realizaciones deseadas en un ordenado.</p>
 
+<p align="justify">Para determinar la distribución conjunta del proceso, es necesario observar un gran número de realizaciones con el fin de estimar la probabilidad de los distintos intervalos. Esta tarea se simplifica considerablemente cuando se puede suponer que la distribución conjunta es normal multivariable, ya que en ese caso, se determinará por el vector de medias y la matriz de varianzas y covarianzas entre las variables.</p>
+
 
 
