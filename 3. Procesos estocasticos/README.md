@@ -21,3 +21,7 @@
 
 <p align="justify">La figura 3 presenta histogramas de la distribución de los 200 valores de la variable del proceso en los tiempos t = 25, 50, 75 y 100. Se puede apreciar que, aunque la media de estas distribuciones es aproximadamente cero en los cuatro casos, la varianza de la distribución aumenta a medida que avanza el tiempo. Este resultado coincide con lo que se muestra en la figura 2, en la que se puede ver que las realizaciones del proceso tienden a alejarse del valor inicial con el paso del tiempo.</p>
 
+<p align="center"><img src="https://github.com/topassky/Analitica-de-datos/blob/master/3.%20Procesos%20estocasticos/Figure_3.png"> </p>
+
+
+
