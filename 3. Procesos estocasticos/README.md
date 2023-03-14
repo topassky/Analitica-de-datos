@@ -45,7 +45,9 @@
 
 <p align="center"><img src="https://github.com/topassky/Analitica-de-datos/blob/master/3.%20Procesos%20estocasticos/Figure_4.png"></p>
 
+<p align="justify">Se denominan funciones de varianzas del proceso a aquellas que proporcionan las varianzas en cada instante temporal.  </p>
 
+<p align="center"><img src=["https://latex.codecogs.com/svg.image?Var(z_{t})=\sigma_{t}^{2}&amp;space;"></p>
 
 
 
