@@ -29,7 +29,10 @@
 
 <h2>Propiedades de las distribuciones marginales</h1>
 
-<p align="justify">Se llama funciones de medias del proceso a una función en el tiempo que proporciona la esperanza de las distribuciones marginales <img src="https://latex.codecogs.com/svg.image?z_{t}"> en cada instante. Esto se define como: <img src="https://latex.codecogs.com/svg.image?E[z_{t}]&amp;space;=&amp;space;\mu_{t}">.</p>
+<p align="justify">Se llama funciones de medias del proceso a una función en el tiempo que proporciona la esperanza de las distribuciones marginales <img src="https://latex.codecogs.com/svg.image?z_{t}"> en cada instante. Esto se define como: .</p>
+
+<p align="center"><img src="https://latex.codecogs.com/svg.image?E[z_{t}]&amp;space;=&amp;space;\mu_{t}"></p>
+
 
 
 
