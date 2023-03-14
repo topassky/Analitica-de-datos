@@ -37,6 +37,14 @@
 
 <p align="center"><img src="https://latex.codecogs.com/svg.image?E[z_{1}]=0&plus;E[a_{1}]=0&space;"></p>
 
+<p align="justify">Además, se puede utilizar el hecho de que si la esperanza de <img src="https://latex.codecogs.com/svg.image?z_{t-1}&amp;space;"> es cero, también lo es la de <img src="https://latex.codecogs.com/svg.image?z_{t}">, ya que: </p>
+
+<p align="center"><img src="https://latex.codecogs.com/svg.image?E[z_{t}]=E[z_{t-1}]&amp;plus;E(a_{t})=0&amp;space;"></p>
+
+
+
+
+
 
 
 
