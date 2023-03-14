@@ -49,6 +49,11 @@
 
 <p align="center"><img src="https://latex.codecogs.com/svg.image?Var(z_{t})=\sigma_{t}^{2}&amp;space;"></p>
 
+<p align="justify">Se dice que un proceso es estable en la varianza si su varianza es constante en el tiempo. Es posible que un proceso sea estable en la media y no en la varianza, o viceversa. Por ejemplo, en el caso del proceso aleatorio creado por un computador, se ha demostrado que su media es constante, pero su varianza no es constante en el tiempo. Por lo tanto, si se supone que la varianza de <img src="https://latex.codecogs.com/svg.image?a_{t}">  es <img src="https://latex.codecogs.com/svg.image?\sigma^{2}&amp;space;">, entonces la variable <img src = "https://latex.codecogs.com/svg.image?z_{2}"> cumplirá con:</p>
+
+
+
+
 
 
 
