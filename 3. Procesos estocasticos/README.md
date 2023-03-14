@@ -35,6 +35,10 @@
 
 <p align="justify">Un caso particular importante, por su simplicidad, aparece cuando todas las variables tienen la misma media. En este caso, la función de medias es constante. Las realizaciones del proceso no mostrarán ninguna tendencia y se dice que el proceso es estable en la media. Si por el contrario, las medias cambian en el tiempo, las variaciones de dicho proceso mostrarán dicho cambio. Por ejemplo, en el caso del proceso estocástico producido por un ordenador, se ha demostrado que los histogramas en el tiempo t tienen una media de 0. Esto se puede deducir con los siguientes cálculos matemáticos. </p>
 
+<p align="center"><img src="https://latex.codecogs.com/svg.image?E[z_{1}]=0&plus;E[a_{1}]=0&space;"></p>
+
+
+
 
 
 
