@@ -14,13 +14,13 @@ instantes = [[],[],[],[]]
 
 # Recorrer la lista de muestras generadas
 for i in df_n.values:
-    # Almacenar el valor de la variable en el instante temporal t = 25
+    # Almacenar el valor de la variable en el instante temporal t = 2
     instantes[0].append(i[0])
-    # Almacenar el valor de la variable en el instante temporal t = 50
+    # Almacenar el valor de la variable en el instante temporal t = 4
     instantes[1].append(i[1])
-    # Almacenar el valor de la variable en el instante temporal t = 75
+    # Almacenar el valor de la variable en el instante temporal t = 6
     instantes[2].append(i[2])
-    # Almacenar el valor de la variable en el instante temporal t = 100
+    # Almacenar el valor de la variable en el instante temporal t = 8
     instantes[3].append(i[3])
 
 
