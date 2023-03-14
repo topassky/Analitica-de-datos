@@ -41,6 +41,10 @@
 
 <p align="center"><img src="https://latex.codecogs.com/svg.image?E[z_{t}]=E[z_{t-1}]&amp;plus;E(a_{t})=0&amp;space;"></p>
 
+<p align="justify">Como segundo ejemplo, se tiene la serie de lluvias que, como se evidencia en la figura 4, no tiene una media constante, ya que la cantidad media de lluvia varía en los diferentes meses del año. </p>
+
+<p align="center"><img src="https://github.com/topassky/Analitica-de-datos/blob/master/3.%20Procesos%20estocasticos/Figure_4.png"></p>
+
 
 
 
