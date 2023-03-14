@@ -23,8 +23,6 @@ for i in df_n.values:
     # Almacenar el valor de la variable en el instante temporal t = 8
     instantes[3].append(i[3])
 
-
-
 # Crear una figura con varios subplots
 fig, axs = plt.subplots(2, 2, figsize=(5, 5))
 
