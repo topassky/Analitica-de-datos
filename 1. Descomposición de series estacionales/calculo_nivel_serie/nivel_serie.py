@@ -22,7 +22,7 @@ class Nivel_serie():
             auxzt = (self.serie[i]-beta_0)*tiempo_media_0[i]
             beta_1_num += auxzt
             auxt2 = tiempo_media_0[i] * tiempo_media_0[i]
-            beta_1_dem  +=  + auxt2
+            beta_1_dem  +=  auxt2
 
         beta_1 = beta_1_num / beta_1_dem
 
