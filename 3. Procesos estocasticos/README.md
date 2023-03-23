@@ -77,7 +77,7 @@
 
 <p align="justify">En particular, se debe considerar que: </p>
 
-
+<p align="center"><img src="https://latex.codecogs.com/svg.image?\gamma&space;(t,t)&space;=&space;Var(z_{t})=\sigma&space;_{t}^{2}"></p>
 
 
 
