@@ -11,3 +11,5 @@
   <li><a href="https://github.com/topassky/Analitica-de-datos/tree/master/Google%20Analytics">Google Analytics</a></li>
 </ol>
 
+<p>Peña Daniel. (2018). Análisis de series temporales. Alianza Editorial. </p>
+
