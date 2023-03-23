@@ -75,6 +75,12 @@
 
 <p align="center"><img src="https://latex.codecogs.com/svg.image?\gamma(t,t&plus;j)=cov(z_{t},z_{t&plus;j})=E[(z_{t}-\mu_{t})(z_{t&plus;j}-\mu_{t&plus;j})]"></p>
 
+<p align="justify">En particular, se debe considerar que: </p>
+
+<p align="center"><img src="https://latex.codecogs.com/svg.image?\gamma&space;(t,t)&space;=&space;Var(z_{t})=\sigma&space;_{t}^{2}"></p>
+
+
+
 
 
 
