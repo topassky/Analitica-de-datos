@@ -63,6 +63,8 @@
 
 <p align="center"><img src="https://latex.codecogs.com/svg.image?Var(z_{2})=2\sigma^{2}"></p>
 
+<p align="center">ó</p>
+
 <p align="center"><img src="https://latex.codecogs.com/svg.image?Var(z_{2})=E(z_{2}^{2})=E(z_{1}^{2}&plus;a_{2}^{2}&plus;2z_{1}a_{2})=2\sigma^{2}"></p>
 
 <p align="justify">Dado que la variable <img src="https://latex.codecogs.com/svg.image?z_{1}"> depende únicamente de <img src="https://latex.codecogs.com/svg.image?a_{1}">, la cual es independiente de <img src="https://latex.codecogs.com/svg.image?a_{2}">, se puede afirmar que las variables <img src="https://latex.codecogs.com/svg.image?z_{1}"> y <img src="https://latex.codecogs.com/svg.image?a_{2}"> son independientes. Si se aplica esta ecuación sucesivamente para t=3,4,..., se puede deducir con facilidad que la varianza de <img src="https://latex.codecogs.com/svg.image?z_{t}"> es igual a <img src="https://latex.codecogs.com/svg.image?t\sigma^{2}">. Es importante destacar que la varianza de <img src="https://latex.codecogs.com/svg.image?z_{t}"> aumenta de manera lineal con el tiempo.</p>
