@@ -73,6 +73,8 @@
 
 <p align="justify">La representación de la estructura de dependencia lineal entre las variables aleatorias del proceso se realiza mediante las funciones de covarianza y correlación. Se designa como función de autocovarianzas del proceso a la función de dos argumentos que describe la covarianza entre dos variables del proceso en dos instantes diferentes.</p>
 
+<p align="center"><img src="https://latex.codecogs.com/svg.image?\gamma(t,t&plus;j)=cov(z_{t},z_{t&plus;j})=E[(z_{t}-\mu_{t})(z_{t&plus;j}-\mu_{t&plus;j})]"></p>
+
 
 
 
