@@ -45,6 +45,22 @@
 
 <p align="center"><img src="https://github.com/topassky/Analitica-de-datos/blob/master/3.%20Procesos%20estocasticos/Figure_4.png"></p>
 
+<p align="justify">Se denominan funciones de varianzas del proceso a aquellas que proporcionan las varianzas en cada instante temporal.  </p>
+
+<p align="center"><img src="https://latex.codecogs.com/svg.image?Var(z_{t})=\sigma_{t}^{2}&amp;space;"></p>
+
+<p align="justify">Se dice que un proceso es estable en la varianza si su varianza es constante en el tiempo. Es posible que un proceso sea estable en la media y no en la varianza, o viceversa. Por ejemplo, en el caso del proceso aleatorio creado por un computador, se ha demostrado que su media es constante, pero su varianza no es constante en el tiempo. Por lo tanto, si se supone que la varianza de <img src="https://latex.codecogs.com/svg.image?a_{t}">  es <img src="https://latex.codecogs.com/svg.image?\sigma^{2}&amp;space;">, entonces la variable <img src = "https://latex.codecogs.com/svg.image?z_{2}"> cumplirá con:</p>
+
+<p align="center"><img src="https://latex.codecogs.com/svg.image?Var(z_{2})=E(z_{2}^{2})=E(z_{1}^{2}&plus;a_{2}^{2}&plus;2z_{1}a_{2})=2\sigma^{2}"></p>
+
+<p align="justify">Dado que la variable <img src="https://latex.codecogs.com/svg.image?z_{1}"> depende únicamente de <img src="https://latex.codecogs.com/svg.image?a_{1}">, la cual es independiente de <img src="https://latex.codecogs.com/svg.image?a_{2}">, se puede afirmar que las variables <img src="https://latex.codecogs.com/svg.image?z_{1}"> y <img src="https://latex.codecogs.com/svg.image?a_{2}"> son independientes. Si se aplica esta ecuación sucesivamente para t=3,4,..., se puede deducir con facilidad que la varianza de <img src="https://latex.codecogs.com/svg.image?z_{t}"> es igual a <img src="https://latex.codecogs.com/svg.image?t\sigma^{2}">. Es importante destacar que la varianza de <img src="https://latex.codecogs.com/svg.image?z_{t}"> aumenta de manera lineal con el tiempo.</p>
+
+<p align="center"><img src="https://latex.codecogs.com/svg.image?Var(z_{t})=t\sigma^{2}"></p>
+
+<p align="justify">La representación de la estructura de dependencia lineal entre las variables aleatorias del proceso se realiza mediante las funciones de covarianza y correlación. Se designa como función de autocovarianzas del proceso a la función de dos argumentos que describe la covarianza entre dos variables del proceso en dos instantes diferentes.</p>
+
+
+
 
 
 
