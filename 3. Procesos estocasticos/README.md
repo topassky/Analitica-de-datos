@@ -79,6 +79,9 @@
 
 <p align="center"><img src="https://latex.codecogs.com/svg.image?\gamma&space;(t,t)&space;=&space;Var(z_{t})=\sigma&space;_{t}^{2}"></p>
 
+<p align="justify">En un proceso estocástico, la función de medias y la de autocovarianzas desempeñan una función análoga a la de la media y la varianza en una variable escalar. </p>
+
+<p align="justify">Las autocovarianzas poseen dimensiones en términos de la serie al cuadrado, lo que hace que no sean útiles para comparar series medidas en diferentes unidades. Para obtener una medida adimensional de la dependencia lineal, se puede generalizar la idea del coeficiente de correlación lineal entre dos variables. El coeficiente de autocorrelación de orden <img src="https://latex.codecogs.com/svg.image?(t,&space;t&plus;j)"> se define como la correlación entre las variables <img src="https://latex.codecogs.com/svg.image?z_{t}"> y <img src="https://latex.codecogs.com/svg.image?z_{t&plus;j}">, mientras que la función de autocorrelación describe estos coeficientes para cualquier par de valores de las variables. Esta función se expresa como: </p>
 
 
 
