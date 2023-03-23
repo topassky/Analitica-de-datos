@@ -83,7 +83,7 @@
 
 <p align="justify">Las autocovarianzas poseen dimensiones en términos de la serie al cuadrado, lo que hace que no sean útiles para comparar series medidas en diferentes unidades. Para obtener una medida adimensional de la dependencia lineal, se puede generalizar la idea del coeficiente de correlación lineal entre dos variables. El coeficiente de autocorrelación de orden <img src="https://latex.codecogs.com/svg.image?(t,&space;t&plus;j)"> se define como la correlación entre las variables <img src="https://latex.codecogs.com/svg.image?z_{t}"> y <img src="https://latex.codecogs.com/svg.image?z_{t&plus;j}">, mientras que la función de autocorrelación describe estos coeficientes para cualquier par de valores de las variables. Esta función se expresa como: </p>
 
-<p align="justify"><img src="https://latex.codecogs.com/svg.image?\rho(t,t&plus;j)=\frac{cov(t,t&plus;j)}{\sigma_{t}\sigma_{t&plus;j}}&space;=\frac{\gamma(t,t&plus;j)}{\gamma^{\frac{1}{2}}(t,t)\gamma^{\frac{1}{2}}(t&plus;j,t&plus;j)}"> </p>
+<p align="center"><img src="https://latex.codecogs.com/svg.image?\rho(t,t&plus;j)=\frac{cov(t,t&plus;j)}{\sigma_{t}\sigma_{t&plus;j}}&space;=\frac{\gamma(t,t&plus;j)}{\gamma^{\frac{1}{2}}(t,t)\gamma^{\frac{1}{2}}(t&plus;j,t&plus;j)}"> </p>
 
 
 
