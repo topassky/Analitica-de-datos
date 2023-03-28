@@ -98,9 +98,9 @@
 
 <p align="justify">Se puede comprobar la ecuación matemática mencionada utilizando la función "4.proceso_Markov.py". La función proporciona la información de <img src="https://latex.codecogs.com/svg.image?f(z_{t&amp;plus;1}|z_{t})">  y <img src="https://latex.codecogs.com/svg.image?N(z_{t},&amp;space;\sigma&amp;space;^{2})"> en su salida.</p>
 
-<p align="justify">Para <img src="https://latex.codecogs.com/svg.image?f(z_{t&amp;plus;1}|z_{t})"> y <img src="https://latex.codecogs.com/svg.image?\sigma&space;^{2}&space;=&space;1.121336677326079&space;"> </p>
+<p align="justify">Para <img src="https://latex.codecogs.com/svg.image?f(z_{t&amp;plus;1}|z_{t})"> <img src="https://latex.codecogs.com/svg.image?\sigma&space;^{2}&space;=&space;1.121336677326079&space;"> y <img src="https://latex.codecogs.com/svg.image?\mu&space;=&space;-0.04727124941828688&space;"> </p>
 
-<p align="justify">Para <img src="https://latex.codecogs.com/svg.image?N(z_{t},&amp;space;\sigma&amp;space;^{2})"> y <img src="https://latex.codecogs.com/svg.image?\sigma&space;^{2}&space;=&space;1.121336677326079&space;"> </p>
+<p align="justify">Para <img src="https://latex.codecogs.com/svg.image?N(z_{t},&amp;space;\sigma&amp;space;^{2})"> <img src="https://latex.codecogs.com/svg.image?\sigma&space;^{2}&space;=&space;1.0687355074175577&space;"> y <img src="https://latex.codecogs.com/svg.image?\mu&space;=&space;-0.055488109157286344&space;"> </p>
 
 
 
