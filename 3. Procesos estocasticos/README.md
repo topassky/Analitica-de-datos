@@ -104,6 +104,8 @@
 
 <p align="center"><img src="https://github.com/topassky/Analitica-de-datos/blob/master/3.%20Procesos%20estocasticos/Figure_5.png"> </p>
 
+<p align="justify">Se puede concluir que el proceso de Markov cumple que la función en el instante 25 puede ser calculada por medio de las propiedades del instante 24.</p>
+
 
 
 
