@@ -102,7 +102,7 @@
 
 <p align="center">Para <img src="https://latex.codecogs.com/svg.image?N(z_{t},&amp;space;\sigma&amp;space;^{2})"> <img src="https://latex.codecogs.com/svg.image?\sigma&space;^{2}&space;=&space;1.0687355074175577&space;"> y <img src="https://latex.codecogs.com/svg.image?\mu&space;=&space;-0.055488109157286344&space;"> </p>
 
-<p align="center"><img src="https://github.com/topassky/Analitica-de-datos/blob/master/3.%20Procesos%20estocasticos/Figure_3.png"> </p>
+<p align="center"><img src="https://github.com/topassky/Analitica-de-datos/blob/master/3.%20Procesos%20estocasticos/Figure_5.png"> </p>
 
 
 
