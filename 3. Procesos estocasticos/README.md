@@ -91,7 +91,7 @@
 
 <p align="center"><img src="https://latex.codecogs.com/svg.image?f(z_{t&amp;plus;1}|z_{t},...,z_{1})=f(z_{t&amp;plus;1}|z_{t})"> </p>
 
-
+<p align="justify">En otras palabras, un proceso se considera de Markov si, conociendo el valor actual del proceso, la distribución del valor futuro solamente depende de ese valor y no del camino que se recorrió para llegar a él. Un ejemplo de proceso de Markov es el paseo aleatorio. </p>
 
 
 
