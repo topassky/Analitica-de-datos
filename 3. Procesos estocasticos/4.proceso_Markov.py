@@ -78,3 +78,5 @@ axs[1].set(title='Histograma de distribución t = 25', xlabel=xlabel, ylabel=yla
 plt.show()
 
 
+
+
