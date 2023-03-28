@@ -89,7 +89,7 @@
 
 <p align="justify">Además de estudiar las distribuciones marginales en los procesos estocásticos, es comúnmente de gran interés el estudio de las distribuciones condicionales. En este sentido, un tipo importante de procesos son los procesos de Markov, los cuales poseen la propiedad de que: </p>
 
-
+<p align="center"><img src="https://latex.codecogs.com/svg.image?f(z_{t&amp;plus;1}|z_{t},...,z_{1})=f(z_{t&amp;plus;1}|z_{t})"> </p>
 
 
 
