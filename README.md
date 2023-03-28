@@ -1,8 +1,6 @@
 
 <!-- PROJECT LOGO -->
-<h1 align="center">Analitica de datos</h1>
-
-
+<h1 align="center">Analisis de series temporales</h1>
 
 <ol>
   <li><a href="https://github.com/topassky/Analitica-de-datos/tree/master/1.%20Descomposici%C3%B3n%20de%20series%20estacionales">Descomposición para series estacionales </a></li>
