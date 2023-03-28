@@ -27,7 +27,7 @@
 
 <p align="justify">Para determinar la distribución conjunta del proceso, es necesario observar un gran número de realizaciones con el fin de estimar la probabilidad de los distintos intervalos. Esta tarea se simplifica considerablemente cuando se puede suponer que la distribución conjunta es normal multivariable, ya que en ese caso, se determinará por el vector de medias y la matriz de varianzas y covarianzas entre las variables.</p>
 
-<h2>Propiedades de las distribuciones marginales</h1>
+<h2>Propiedades de las distribuciones marginales</h2>
 
 <p align="justify">Se llama funciones de medias del proceso a una función en el tiempo que proporciona la esperanza de las distribuciones marginales <img src="https://latex.codecogs.com/svg.image?z_{t}"> en cada instante. Esto se define como: .</p>
 
@@ -85,7 +85,7 @@
 
 <p align="center"><img src="https://latex.codecogs.com/svg.image?\rho(t,t&plus;j)=\frac{cov(t,t&plus;j)}{\sigma_{t}\sigma_{t&plus;j}}&space;=\frac{\gamma(t,t&plus;j)}{\gamma^{\frac{1}{2}}(t,t)\gamma^{\frac{1}{2}}(t&plus;j,t&plus;j)}"> </p>
 
-
+<h2>Propiadades de las distribucionaes condicionales</h2>
 
 
 
