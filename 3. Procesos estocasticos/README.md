@@ -87,6 +87,9 @@
 
 <h2>Propiadades de las distribucionaes condicionales</h2>
 
+<p align="justify">Además de estudiar las distribuciones marginales en los procesos estocásticos, es comúnmente de gran interés el estudio de las distribuciones condicionales. En este sentido, un tipo importante de procesos son los procesos de Markov, los cuales poseen la propiedad de que: </p>
+
+
 
 
 
