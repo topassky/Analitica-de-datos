@@ -110,9 +110,8 @@
 
 <p align="center"><img src="https://latex.codecogs.com/svg.image?E(z_{t}|z_{t-1},...,z_{1})=E(z_{t}|z_{t-1})=z_{t-1}"> </p>
 
-<p align="justify">Es interesante resaltar las diferencias entre las distribuciones condicionales y las marginales estudiadas en el aspecto anterior. La distribución marginal de <img src="https://latex.codecogs.com/svg.image?z_{t}"> representa lo que podemos conocer de esta variable sin saber nada de su trayectoria en el instante t.</p>
+<p align="justify">Es interesante resaltar las diferencias entre las distribuciones condicionales y las marginales estudiadas en el aspecto anterior. La distribución marginal de <img src="https://latex.codecogs.com/svg.image?z_{t}"> representa lo que podemos conocer de esta variable sin saber nada de su trayectoria en el instante t. Mientras que la distribución condicional de la variable aleatoria <img src="https://latex.codecogs.com/svg.image?z_{t}">, dado <img src="https://latex.codecogs.com/svg.image?z_{t-1},...,z_{t-k}">, representa lo que se puede conocer acerca de esta variable cuando se tienen los k valores anteriores del proceso.</p>
 
-<p align="justify">Se puede decir que la distribución condicional de la variable aleatoria <img src="https://latex.codecogs.com/svg.image?z_{t}">, dado <img src="https://latex.codecogs.com/svg.image?z_{t-1},...,z_{t-k}">, representa lo que se puede conocer acerca de esta variable cuando se tienen los k valores anteriores del proceso.</p>
 
 
 
