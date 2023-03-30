@@ -47,12 +47,12 @@ for i in conjunto_muestras:
 # Calcular la media y la varianza de los datos en instantes 24
 media_z_t_24 = np.mean(instantes[0])
 varianza = np.var(instantes[0])
-varianza_24 = varianza/24
+varianza_24 = varianza
 
 # Calcular la media y la varianza de los datos en instantes 25 
 media_z_t_25 = np.mean(instantes[1])
 varianza = np.var(instantes[1])
-varianza_25 = varianza/25
+varianza_25 = varianza
 
 # Imprimir las medias y las varianzas
 print((media_z_t_24, media_z_t_25))
