@@ -4,3 +4,9 @@
 
 <p align="justify">Para poder estimar las características "transversales" del proceso, como las medias, varianzas, etc., a partir de su evolución "longitudinal", es necesario suponer que las propiedades "transversales" (distribución de las variables en cada instante) son estables a lo largo del tiempo. Esto conduce al concepto de estacionalidad, que se define a continuación.</p> 
 
+<ol>
+  <li>Las distribuciones marginales de todas las variables son idénticas. </li>
+  <li>Las distribuciones finito-dimensionales de cualquier conjunto de variables estocásticas dependen únicamente de los retardos entre ellas.</li>
+</ol>
+
+
