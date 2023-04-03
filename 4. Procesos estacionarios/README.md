@@ -15,10 +15,10 @@
 
 <p align="justify">Se presenta un ejemplo que coprueba la función anterior que simula un proceso estocástico estacionario y verifica si cumple con las condiciones de estacionariedad. Para hacer esto, se define una función llamada generar_proceso_estacionario que crea un proceso estocástico utilizando una serie temporal autocorrelacionada con una media, desviación estándar y autocorrelación dadas. La función verificar_condiciones se encarga de comprobar si las condiciones de estacionariedad se cumplen, es decir, si las distribuciones marginales, los coeficientes de asimetría y curtosis se mantienen constantes al trasladar el proceso en el tiempo. Además el código presentado introduce una función llamada verificar_distribuciones_finito_dimensionales para analizar si las distribuciones finito-dimensionales de un proceso estocástico dependen únicamente de los retardos entre sus variables. La función evalúa la relación entre las variables estocásticas al calcular las correlaciones de Pearson para diferentes retardos en el proceso dado. Obteniedo los siguientes resultados: </p> 
 
-<p align="justify">
+<p align="center">
 Condiciones cumplidas con una tolerancia de 0.01
 </p> 
-<p align="justify">
+<p align="center">
 Correlación con retardo 1 es: 0.7766326526771806
 </p> 
 
