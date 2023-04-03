@@ -22,5 +22,7 @@ Condiciones cumplidas con una tolerancia de 0.01
 Correlación con retardo 1 es: 0.7766326526771806
 </p> 
 
-<p align="center">https://github.com/topassky/Analitica-de-datos/blob/master/4.%20Procesos%20estacionarios/Figure_1.png</p>
+<p align="center">
+<img src="https://github.com/topassky/Analitica-de-datos/blob/master/4.%20Procesos%20estacionarios/Figure_1.png">
+</p>
 
