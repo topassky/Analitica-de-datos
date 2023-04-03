@@ -14,4 +14,4 @@
 
 
 
-
+<p align="center"><img src="https://latex.codecogs.com/svg.image?F(z_{i},z_{j},...,z_{k+h}) = F(z_{i+h},z_{j+h},...,z_{k+h})"></p>
