@@ -11,4 +11,4 @@
 
 <p align="justify">En términos generales, se establece que las distribuciones marginales de todas las variables estocásticas son las mismas. Además, los coeficientes de asimetría y curtosis de estas distribuciones son iguales ya que se mantienen para todos los retardos. La segunda condición impone que la dependencia entre las variables solo depende de sus retardos, lo que significa que la misma dependencia existe entre las variables en diferentes momentos del proceso. Estas dos condiciones se pueden resumir afirmando que la distribución conjunta de cualquier conjunto de variables no cambia si se trasladan en el tiempo. En otras palabras, si tenemos una distribución conjunta <img src="https://latex.codecogs.com/svg.image?F(z_{i},z_{j},....,z_{k})"> también podemos escribirla como <img src="https://latex.codecogs.com/svg.image?F(z_{i+h},z_{j+h},...,z_{k+h})">  sin que esta se vea afectada.</p> 
 
-<p align="center"><img src="https://latex.codecogs.com/svg.image?F(z_{i},z_{j},...,z_{k+h})"></p>
+<p align="center"><img src="https://latex.codecogs.com/svg.image?F(z_{i},z_{j},...,z_{k+h}) = F(z_{i+h},z_{j+h},...,z_{k+h})"></p>
