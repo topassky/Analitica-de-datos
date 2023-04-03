@@ -17,5 +17,8 @@
 
 <p align="justify">
 Condiciones cumplidas con una tolerancia de 0.01
+</p> 
+<p align="justify">
 Correlación con retardo 1 es: 0.7766326526771806
 </p> 
+
