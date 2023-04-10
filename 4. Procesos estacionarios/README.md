@@ -49,7 +49,7 @@ Correlación con retardo 1 es: 0.7766326526771806
 
 <p align="justify">y también, para las autocorrelaciones: </p> 
 
-<p align="center"> <img src="https://latex.codecogs.com/svg.image?\rho_{t}&space;=&space;\frac{Cov(z_{t},z_{t-k})}{\sqrt{var(z_{t}var(z_{t-k}))}}"> con j=+-1,+-2, ... </p> 
+<p align="center"> <img src="https://latex.codecogs.com/svg.image?\rho_{t}&space;=&space;\frac{Cov(z_{t},z_{t-k})}{\sqrt{var(z_{t}var(z_{t-k}))}}&space;=&space;\frac{\gamma_{k}}{\gamma_{0}}"> </p> 
 
 
 
