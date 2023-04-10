@@ -34,6 +34,12 @@ Correlación con retardo 1 es: 0.7766326526771806
 
 <p align="justify">Un proceso estacionario en sentido débil es aquel en el cual todos los momentos estadísticos, como la media y la varianza, son constantes en el tiempo y no dependen del tiempo en el que se observan. En otras palabras, el proceso no cambia su comportamiento estadístico a lo largo del tiempo, aunque la distribución de probabilidad de los datos puede variar. Esto implica que la autocovarianza, que mide la covarianza entre dos valores del proceso en diferentes tiempos, no depende del tiempo y solo varía con el retardo utilizado en su cálculo. Es decir: </p> 
 
-1. 
+1. <img src="https://latex.codecogs.com/svg.image?\mu_{t}&space;=&space;\mu&space;=&space;cte">
+2. <img src="https://latex.codecogs.com/svg.image?\sigma_{t}&space;=&space;\sigma&space;=&space;cte">
+3. <img src="https://latex.codecogs.com/svg.image?\gamma(t,t-k)=E[(z_{t}-\mu)(z_{t-k}-\mu)]&space;">
+
+
+
+
 
 
