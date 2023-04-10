@@ -43,7 +43,12 @@ Correlación con retardo 1 es: 0.7766326526771806
 <p align="justify">Al aplicar este código a una serie de tiempo, los investigadores pueden obtener una comprensión más profunda de la estructura y el comportamiento de los datos a lo largo del tiempo. Al evaluar la presencia de estacionalidad débil, es posible determinar si es apropiado utilizar modelos específicos de series de tiempo, como modelos ARIMA o modelos de media móvil, que asumen que la serie de tiempo es estacionaria. </p> 
 
 
-<p align="justify">En consecuencia los procesos estacionarios: </p> 
+<p align="justify">En consecuencia los procesos estacionarios, cumplen con: </p> 
+
+<p align="justify"> <img src="https://latex.codecogs.com/svg.image?Cov(z_{t},&space;z_{t&plus;k})=Cov(z_{t&plus;j},&space;z_{t&plus;j&plus;k})"> </p> 
+
+
+
 
 
 
