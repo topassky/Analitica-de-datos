@@ -26,3 +26,14 @@ Correlación con retardo 1 es: 0.7766326526771806
 <img src="https://github.com/topassky/Analitica-de-datos/blob/master/4.%20Procesos%20estacionarios/Figure_1.png">
 </p>
 
+<h2 align="justify">Estacionalidad estricta</h1>
+
+<p align="justify">La estacionalidad estricta se refiere a la presencia de un patrón periódico exacto en una serie de tiempo. Por ejemplo, una serie de tiempo que mide la cantidad de ventas de una tienda durante los meses de noviembre y diciembre cada año, mostrará una estacionalidad estricta con un período anual.</p> 
+
+<h2 align="justify">Estacionalidad debil</h1>
+
+<p align="justify">Un proceso estacionario en sentido débil es aquel en el cual todos los momentos estadísticos, como la media y la varianza, son constantes en el tiempo y no dependen del tiempo en el que se observan. En otras palabras, el proceso no cambia su comportamiento estadístico a lo largo del tiempo, aunque la distribución de probabilidad de los datos puede variar. Esto implica que la autocovarianza, que mide la covarianza entre dos valores del proceso en diferentes tiempos, no depende del tiempo y solo varía con el retardo utilizado en su cálculo. Es decir: </p> 
+
+1. 
+
+
