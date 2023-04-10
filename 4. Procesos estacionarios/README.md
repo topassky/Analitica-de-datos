@@ -45,7 +45,7 @@ Correlación con retardo 1 es: 0.7766326526771806
 
 <p align="justify">En consecuencia los procesos estacionarios, cumplen con: </p> 
 
-<p align="justify"> <img src="https://latex.codecogs.com/svg.image?Cov(z_{t},&space;z_{t&plus;k})=Cov(z_{t&plus;j},&space;z_{t&plus;j&plus;k})"> </p> 
+<p align="center"> <img src="https://latex.codecogs.com/svg.image?Cov(z_{t},&space;z_{t&plus;k})=Cov(z_{t&plus;j},&space;z_{t&plus;j&plus;k})"> con j=+-1,+-2, ... </p> 
 
 
 
