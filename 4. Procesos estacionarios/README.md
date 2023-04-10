@@ -38,6 +38,14 @@ Correlación con retardo 1 es: 0.7766326526771806
 2. <img src="https://latex.codecogs.com/svg.image?\sigma_{t}&space;=&space;\sigma&space;=&space;cte">
 3. <img src="https://latex.codecogs.com/svg.image?\gamma(t,t-k)=E[(z_{t}-\mu)(z_{t-k}-\mu)]&space;">
 
+<p align="justify"> Para complementar ésta sección se crea el código llamado 2.estacionalidad_debil que proporciona una herramienta valiosa para analizar la estacionalidad débil en series de tiempo. Comprender si una serie de tiempo exhibe estacionalidad débil puede ser crucial para tomar decisiones informadas en diversos campos, como finanzas, economía y meteorología. El enfoque utilizado en este código implica dividir la serie de tiempo en segmentos y comparar las medias y varianzas de cada segmento. Si las medias y varianzas de los segmentos son similares dentro de un margen de tolerancia, esto sugiere que la estacionalidad débil puede estar presente en los datos. Además, el código calcula la autocovarianza para diferentes retardos, proporcionando información adicional sobre la dependencia lineal entre los valores de la serie de tiempo en dos puntos de tiempo separados por un retardo. </p> 
+
+<p align="justify">Al aplicar este código a una serie de tiempo, los investigadores pueden obtener una comprensión más profunda de la estructura y el comportamiento de los datos a lo largo del tiempo. Al evaluar la presencia de estacionalidad débil, es posible determinar si es apropiado utilizar modelos específicos de series de tiempo, como modelos ARIMA o modelos de media móvil, que asumen que la serie de tiempo es estacionaria. </p> 
+
+
+
+
+
 
 
 
