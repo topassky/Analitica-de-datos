@@ -9,6 +9,8 @@
 <p align="center"><img src="https://latex.codecogs.com/svg.image?R_{k}&space;=&space;\begin{bmatrix}1&space;&&space;\rho_{1}&space;&space;&&space;\rho_{k-1}&space;&space;\\\rho_{1}&space;&&space;1&space;&&space;\rho_{k-2}&space;\\\rho_{k-1}&space;&&space;\rho_{k-2}&space;&&space;1&space;\\\end{bmatrix}">  </p>
 
 <p align="justify">Una propiedad importante de los procesos estacionarios es que son estables ante combinaciones lineales. Esto significa que los procesos obtenidos mediante combinaciones lineales de procesos estacionarios son también estacionarios. En particular, la combinación lineal formada por los incrementos de un proceso estacionario es una serie estacionaria. En otras palabras, si <img src="https://latex.codecogs.com/svg.image?z_{t}"> es estacionario, el proceso <img src="https://latex.codecogs.com/svg.image?w_{t}"> definido por:  <p>
+  
+<p align="center"><img src="https://latex.codecogs.com/svg.image?\omega_{t}&amp;space;=&amp;space;z_{t}&amp;space;-&amp;space;z_{t-1}">  </p>
 
 
 
