@@ -51,6 +51,10 @@ Correlación con retardo 1 es: 0.7766326526771806
 
 <p align="center"> <img src="https://latex.codecogs.com/svg.image?\rho_{t}&space;=&space;\frac{Cov(z_{t},z_{t-k})}{\sqrt{var(z_{t}var(z_{t-k}))}}&space;=&space;\frac{\gamma_{k}}{\gamma_{0}}"> </p> 
 
+<p align="justify">En resumen, en los procesos estacionarios <img src="https://latex.codecogs.com/svg.image?\gamma_{0}&space;=&space;\sigma&space;^{2}&space;">, y <img src="https://latex.codecogs.com/svg.image?\gamma_{k}&space;=&space;\gamma_{-k}&space;">. Para las autocorrelaciones <img src="https://latex.codecogs.com/svg.image?\rho_{k}&space;=&space;\rho_{-k}&space;">  </p> 
+
+
+
 
 
 
