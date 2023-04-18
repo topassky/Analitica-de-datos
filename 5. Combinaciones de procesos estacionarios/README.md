@@ -18,7 +18,7 @@
 
 <p align="justify">que no depende de t. en tercer lugar, su función de autocovarianzaes: </p>
 
-<p align="center"><img src="https://latex.codecogs.com/svg.image?Var(\omega_{t})=Var(z_{t})+Var(z_{t-1})-2Cov(z_{t},z_{t-1})=2(\sigma^{2}-\gamma_{1})">  </p>
+<p align="center"><img src="https://latex.codecogs.com/svg.image?cov(\omega_{t},\omega_{t&amp;plus;k})=E[(z_{t}-z_{t-1})(z_{t&amp;plus;k}-z_{t&amp;plus;k-1})]=2\gamma_{k}-\gamma_{k&amp;plus;1}-\gamma_{k-1}&amp;space;">  </p>
 
 
 
