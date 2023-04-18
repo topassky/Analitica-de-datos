@@ -10,7 +10,7 @@
 
 <p align="justify">Una propiedad importante de los procesos estacionarios es que son estables ante combinaciones lineales. Esto significa que los procesos obtenidos mediante combinaciones lineales de procesos estacionarios son también estacionarios. En particular, la combinación lineal formada por los incrementos de un proceso estacionario es una serie estacionaria. En otras palabras, si <img src="https://latex.codecogs.com/svg.image?z_{t}"> es estacionario, el proceso <img src="https://latex.codecogs.com/svg.image?w_{t}"> definido por:  <p>
   
-<p align="center"><img src="https://latex.codecogs.com/svg.image?\omega_{t}">  </p>
+<p align="center"><img src="https://latex.codecogs.com/svg.image?\omega_{t}=z_{t}-z_{t-1}">  </p>
 
 <p align="justify">Efectivamente, se procederá a verificar las tres condiciones de la sección anterior para determinar la estacionalidad en sentido débil. Es fácil constatar que la esperanza de <img src="https://latex.codecogs.com/svg.image?\omega_{t}">  siempre es cero. La varianza será constante, puesto que, al denominar <img src="https://latex.codecogs.com/svg.image?\sigma&amp;space;^{2}"> a la varianza de <img src="https://latex.codecogs.com/svg.image?&amp;space;z_{t}"> y <img src="https://latex.codecogs.com/svg.image?\gamma_{1}"> a la covarianza entre observaciones contiguas: </p>
 
