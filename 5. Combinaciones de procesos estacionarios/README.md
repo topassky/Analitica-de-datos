@@ -12,6 +12,8 @@
   
 <p align="center"><img src="https://latex.codecogs.com/svg.image?\omega_{t}&amp;space;=&amp;space;z_{t}&amp;space;-&amp;space;z_{t-1}">  </p>
 
+<p align="justify">Efectivamente, se procederá a verificar las tres condiciones de la sección anterior para determinar la estacionalidad en sentido débil. Es fácil constatar que la esperanza de wt siempre es cero. La varianza será constante, puesto que, al denominar /sigma^2 a la varianza de z_{t} y y_{1} a la covarianza entre observaciones contiguas: </p>
+
 
 
 
