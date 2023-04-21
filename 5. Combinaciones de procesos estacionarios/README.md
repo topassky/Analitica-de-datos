@@ -20,9 +20,7 @@
 
 <p align="center"><img src="https://latex.codecogs.com/svg.image?cov(\omega_{t},\omega_{t&amp;plus;k})=E[(z_{t}-z_{t-1})(z_{t&amp;plus;k}-z_{t&amp;plus;k-1})]=2\gamma_{k}-\gamma_{k&amp;plus;1}-\gamma_{k-1}&amp;space;">  </p>
 
-
-
-
+<p align="center"> Se procederá a demostrar el resultado general de que toda combinación lineal de procesos estacionarios es un nuevo proceso estacionario (esta prueba puede omitirse sin pérdida de continuidad). Supongamos que <img src="https://latex.codecogs.com/svg.image?z_{t}&amp;space;=&amp;space;(z_{1t},...,z_{kt})"> es un vector de k procesos estacionarios, donde se asume que las autocovarianzas entre dos componentes en dos instantes de tiempo solo dependen de los dos componentes considerados y del retardo entre los instantes temporales. Bajo estas condiciones, el vector de series es estacionario. Ahora, considérese el proceso escalar definido por el vector de constantes c' = (c1,...,c2). </p>
 
 
 
