@@ -29,7 +29,7 @@
 
 <p align="justify"> Donde u=(u1,...,uk) es el vector de las medidas de los componentes. Dado que las esperanzas E(z_{it}) = ui son constantes, también lo es E{yk}. La varianza del proceso yk se calculará de la siguiente manera: </p>
 
-<p align="center"><img src="https://latex.codecogs.com/svg.image?E(y_{t})=c_{1}E(z_{1t})&amp;plus;...&amp;plus;c_{k}E(z_{kt})=c^{'}\mu&amp;space;">  </p>
+<p align="center"><img src="https://latex.codecogs.com/svg.image?var(y_{k})=E(c^{'}(z_{t}-\mu)(z_{t}-\mu)^{'}c)=c^{'}\Gamma_{z}c">  </p>
 
 
 
