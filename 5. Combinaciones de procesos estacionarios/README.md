@@ -35,6 +35,9 @@
 
 <p align="justify">  Una consecuencia de este resultado es que las autocovarianzas deben cumplir ciertas condiciones para corresponder a un proceso estacionario. Si se define la combinación lineal de los valores retardados del proceso escalar <img src="https://latex.codecogs.com/svg.image?&amp;space;z_{t}"> mediante: </p>
 
+<p align="center"><img src="https://latex.codecogs.com/svg.image?y_{t}&amp;space;=&amp;space;c_{1}z_{t}&amp;plus;c_{2}z_{t-1}&amp;plus;...&amp;plus;c_{k}z_{t-k}=c^^{'}z_{t,k}">  </p>
+
+
 
 
 
