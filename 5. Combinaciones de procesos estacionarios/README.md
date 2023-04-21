@@ -23,7 +23,7 @@
 <p align="justify"> Se procederá a demostrar el resultado general de que toda combinación lineal de procesos estacionarios es un nuevo proceso estacionario (esta prueba puede omitirse sin pérdida de continuidad). Supongamos que <img src="https://latex.codecogs.com/svg.image?z_{t}&amp;space;=&amp;space;(z_{1t},...,z_{kt})"> es un vector de k procesos estacionarios, donde se asume que las autocovarianzas entre dos componentes en dos instantes de tiempo solo dependen de los dos componentes considerados y del retardo entre los instantes temporales. Bajo estas condiciones, el vector de series es estacionario. Ahora, considérese el proceso escalar definido por el vector de constantes <img src="https://latex.codecogs.com/svg.image?c'&amp;space;=&amp;space;(c_{1},...,c_{2}).">  </p>
 
 
-<p align="justify"> Este proceso será una combinación lineal de los componentes del vector zt. La esperanza del proceso estacionario resultante se expresa como sigue: </p>
+<p align="justify"> Este proceso será una combinación lineal de los componentes del vector <img src="https://latex.codecogs.com/svg.image?z_{t}">. La esperanza del proceso estacionario resultante se expresa como sigue: </p>
 
 
 
