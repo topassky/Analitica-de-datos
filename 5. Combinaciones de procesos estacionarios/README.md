@@ -25,6 +25,7 @@
 
 <p align="justify"> Este proceso será una combinación lineal de los componentes del vector <img src="https://latex.codecogs.com/svg.image?z_{t}">. La esperanza del proceso estacionario resultante se expresa como sigue: </p>
 
+<p align="center"><img src="https://latex.codecogs.com/svg.image?E(y_{t})=c_{1}E(z_{1t})&amp;plus;...&amp;plus;c_{k}E(z_{kt})=c^{'}\mu&amp;space;">  </p>
 
 
 
