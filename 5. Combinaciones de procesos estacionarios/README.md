@@ -33,7 +33,7 @@
 
 <p align="justify">  Donde <img src="https://latex.codecogs.com/svg.image?\Gamma_{z}&amp;space;"> es la matriz de covarianzas entre los componentes del vector en el mismo instante. Debido a que los componentes son estacionarios, la matriz de covarianzas entre ellos también es constante. Análogamente, se verifica que: </p>
 
-<p align="justify">  Donde <img src="https://latex.codecogs.com/svg.image?\Gamma_{z}&amp;space;"> contiene las covarianzas entre los componentes en distintos instantes que, según la hipótesis, solo dependen del retardo. Por lo tanto, el proceso <img src="https://latex.codecogs.com/svg.image?y_{k}"> es estacionario. </p>
+<p align="justify">  Una consecuencia de este resultado es que las autocovarianzas deben cumplir ciertas condiciones para corresponder a un proceso estacionario. Si se define la combinación lineal de los valores retardados del proceso escalar <img src="https://latex.codecogs.com/svg.image?\z_{t}&amp;space;"> mediante: </p>
 
 
 
