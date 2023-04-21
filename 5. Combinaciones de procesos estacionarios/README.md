@@ -31,6 +31,10 @@
 
 <p align="center"><img src="https://latex.codecogs.com/svg.image?var(y_{k})=E(c^{'}(z_{t}-\mu)(z_{t}-\mu)^{'}c)=c^{'}\Gamma_{z}c">  </p>
 
+<p align="justify">  Donde <img src="https://latex.codecogs.com/svg.image?\Gamma_{z}&amp;space;"> es la matriz de covarianzas entre los componentes del vector en el mismo instante. Debido a que los componentes son estacionarios, la matriz de covarianzas entre ellos también es constante. Análogamente, se verifica que: </p>
+
+
+
 
 
 
