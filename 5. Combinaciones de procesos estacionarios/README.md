@@ -20,9 +20,22 @@
 
 <p align="center"><img src="https://latex.codecogs.com/svg.image?cov(\omega_{t},\omega_{t&amp;plus;k})=E[(z_{t}-z_{t-1})(z_{t&amp;plus;k}-z_{t&amp;plus;k-1})]=2\gamma_{k}-\gamma_{k&amp;plus;1}-\gamma_{k-1}&amp;space;">  </p>
 
+<p align="justify"> Se procederá a demostrar el resultado general de que toda combinación lineal de procesos estacionarios es un nuevo proceso estacionario (esta prueba puede omitirse sin pérdida de continuidad). Supongamos que <img src="https://latex.codecogs.com/svg.image?z_{t}&amp;space;=&amp;space;(z_{1t},...,z_{kt})"> es un vector de k procesos estacionarios, donde se asume que las autocovarianzas entre dos componentes en dos instantes de tiempo solo dependen de los dos componentes considerados y del retardo entre los instantes temporales. Bajo estas condiciones, el vector de series es estacionario. Ahora, considérese el proceso escalar definido por el vector de constantes <img src="https://latex.codecogs.com/svg.image?c'&amp;space;=&amp;space;(c_{1},...,c_{2}).">  </p>
 
 
+<p align="justify"> Este proceso será una combinación lineal de los componentes del vector <img src="https://latex.codecogs.com/svg.image?z_{t}">. La esperanza del proceso estacionario resultante se expresa como sigue: </p>
 
+<p align="center"><img src="https://latex.codecogs.com/svg.image?E(y_{t})=c_{1}E(z_{1t})&amp;plus;...&amp;plus;c_{k}E(z_{kt})=c^{'}\mu&amp;space;">  </p>
+
+<p align="justify"> Donde u=(u1,...,uk) es el vector de las medidas de los componentes. Dado que las esperanzas E(z_{it}) = ui son constantes, también lo es E{yk}. La varianza del proceso yk se calculará de la siguiente manera: </p>
+
+<p align="center"><img src="https://latex.codecogs.com/svg.image?var(y_{k})=E(c^{'}(z_{t}-\mu)(z_{t}-\mu)^{'}c)=c^{'}\Gamma_{z}c">  </p>
+
+<p align="justify">  Donde <img src="https://latex.codecogs.com/svg.image?\Gamma_{z}&amp;space;"> es la matriz de covarianzas entre los componentes del vector en el mismo instante. Debido a que los componentes son estacionarios, la matriz de covarianzas entre ellos también es constante. Análogamente, se verifica que: </p>
+
+<p align="justify">  Una consecuencia de este resultado es que las autocovarianzas deben cumplir ciertas condiciones para corresponder a un proceso estacionario. Si se define la combinación lineal de los valores retardados del proceso escalar <img src="https://latex.codecogs.com/svg.image?&amp;space;z_{t}"> mediante: </p>
+
+<p align="center"><img src="https://latex.codecogs.com/svg.image?y_{t}&amp;space;=&amp;space;c_{1}z_{t}&amp;plus;c_{2}z_{t-1}&amp;plus;...&amp;plus;c_{k}z_{t-k}=c^^{'}z_{t,k}">  </p>
 
 
 
